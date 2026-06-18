@@ -4,16 +4,16 @@ A command-line banking application built with Python and MySQL that allows users
 
 ## Features
 
-* User registration and login
-* Deposit money into an account
-* Withdraw money from an account
-* Check current account balance
-* View transaction history
-* Data stored in a MySQL database
-* Input validation and error handling
+- User registration and login
+- Deposit money into an account
+- Withdraw money from an account
+- Check current account balance
+- View transaction history
+- Data stored in a MySQL database
+- Input validation and error handling
 
 ## Technologies Used
-* Python
-* MySQL
-* SQL Queries
-* Git & GitHub
+- Python
+- MySQL
+- SQL Queries
+- Git & GitHub
